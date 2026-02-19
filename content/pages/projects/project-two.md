@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Weathering with...
-colors: colors-b
+colors: colors-a
 date: '2023-05-18'
 client: Awesome client
 description: >-
