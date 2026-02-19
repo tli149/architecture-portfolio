@@ -4,10 +4,7 @@ title: Weathering with...
 colors: colors-a
 date: '2023-05-18'
 client: Thesis, Syracuse University
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+description: An afterlife tratment for modern architecture
 featuredImage:
   type: ImageBlock
   url: /images/Li_Tianhui.jpg
