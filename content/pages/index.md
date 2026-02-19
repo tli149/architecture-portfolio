@@ -15,9 +15,15 @@ sections:
     backgroundSize: full
     title: Tianhui's selected works
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Architecture is often regarded as something immovable, yet it continually
+      reveals its capacity for spatial flexibility in response to local context.
+      In today’s society, where lifestyles, social patterns, and environmental
+      conditions can shift rapidly, modern architecture is expected to adapt
+      with equal speed and care. Throughout my architectural education at
+      Syracuse University, I became increasingly attentive to this idea of
+      architecture as a living framework, one that evolves alongside changing
+      demands. In this portfolio, I present my journey of exploring how
+      architecture responds when it meets its context.
     styles:
       self:
         height: auto
