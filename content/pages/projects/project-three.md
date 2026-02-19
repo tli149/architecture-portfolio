@@ -3,7 +3,7 @@ type: ProjectLayout
 title: A DEMOCRATIC FORUM BETWEEN THEWALLS
 colors: colors-a
 date: '2022-04-07'
-client: Awesome client
+client: Comprehensive Design Studio, Syracuse University
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
   because I worked with an entire team :) but they definitely followed my lead
