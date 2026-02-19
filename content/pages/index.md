@@ -19,11 +19,11 @@ sections:
       reveals its capacity for spatial flexibility in response to local context.
       In today’s society, where lifestyles, social patterns, and environmental
       conditions can shift rapidly, modern architecture is expected to adapt
-      with equal speed and care. Throughout my architectural education at
-      Syracuse University, I became increasingly attentive to this idea of
-      architecture as a living framework, one that evolves alongside changing
-      demands. In this portfolio, I present my journey of exploring how
-      architecture responds when it meets its context.
+      with equal speed and care. Throughout my architectural journey, I became
+      increasingly attentive to this idea of architecture as a living framework,
+      one that evolves alongside changing demands. In this portfolio, I present
+      my journey of exploring how architecture responds when it meets its
+      context.
     styles:
       self:
         height: auto
