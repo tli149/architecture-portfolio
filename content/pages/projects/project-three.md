@@ -1,14 +1,17 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: A DEMOCRATIC FORUM BETWEEN THEWALLS
 colors: colors-a
-date: '2022-01-22'
-client: Awesome client
+date: '2022-04-07'
+client: Comprehensive Design Studio, Syracuse University
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  A major problem of contemporary architectural educationis the elitist top-down
+  pedagogy that focuses on incubated/isolated abstractions and speculations
+  without addressing therich entanglement of disciplines and networks crucial to
+  thedynamic civic contexts we operate in. 
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/studio2.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
