@@ -34,7 +34,7 @@ bottomSections:
         caption: Image three caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-4.jpg
+        url: /images/port2023_ページ_06.jpg
         altText: Image four
         caption: Image four caption
         elementId: ''
