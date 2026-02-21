@@ -5,10 +5,6 @@ colors: colors-a
 date: '2023-05-18'
 client: Thesis, Syracuse University
 description: An afterlife tratment for modern architecture
-featuredImage:
-  type: ImageBlock
-  url: /images/Li_Tianhui.jpg
-  altText: Project thumbnail image
 media:
   type: ImageBlock
   url: /images/bg2.jpg
