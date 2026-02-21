@@ -79,11 +79,12 @@ communities. The project introduces **two walls of knowledge** to
 replace the original walls which separate professional spaces apart
 from the public atrium space.
 
-![](/images/port2023_%E3%83%9A%E3%83%BC%E3%82%B8_05.jpg)![](/images/port2023_%E3%83%9A%E3%83%BC%E3%82%B8_09.jpg)
+![](/images/port2023_%E3%83%9A%E3%83%BC%E3%82%B8_05.jpg)
+
+![](/images/port2023_%E3%83%9A%E3%83%BC%E3%82%B8_09.jpg)
 
 The new walls primarily serve the function of archive storage and displacement, they create a grand vertical space for students and faculties to experience each time they enter any program in the architecture school. The two glass walls go down to the space underneath the building,
 forming the space of a grand auditorium with a campus corridor that sits above it. The corridor enables public access to the archive and makes them part of the architecture’s academic discussion.
-
 
 These two glass walls are each composed of a display wall and an archive storage wall. The display wall is composed of openable double-layered glass panels, where students and facilities can insert drawings and display them on both the atrium side and the inside of the wall space. The
 backside of the storage wall interacts with different programs behind it, it can operate as a studio pin-up space on the fourth floor, a screen for the Selignmen Auditorium on the first and second floor, and even an exhibition wall inside the marble room. The two walls work together to form a
