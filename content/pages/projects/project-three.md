@@ -5,10 +5,10 @@ colors: colors-a
 date: '2022-04-07'
 client: Comprehensive Design Studio, Syracuse University
 description: >-
-  A major problem of contemporary architectural educationis the elitist top-down
-  pedagogy that focuses on incubated/isolated abstractions and speculations
-  without addressing therich entanglement of disciplines and networks crucial to
-  thedynamic civic contexts we operate in. 
+  Spring 2022,Comprehensive Design StudioInstructor: Richard RosaPartner:
+  Kaicheng ZhuangLocation: Syracuse, NYAwards:ACSA Steel Design Student
+  Competition 2022 Category I, Honourable MentionKing + King Leadership by
+  Design Prize 2022, Finalist
 featuredImage:
   type: ImageBlock
   url: /images/studio2.png
