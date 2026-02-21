@@ -66,15 +66,17 @@ ACSA Steel Design Student Competition 2022 Category I, Honourable Mention
 King + King Leadership by Design Prize 2022, Finalist
 
 A major problem of contemporary architectural education
- is the elitist top-down pedagogy that focuses on incubated/
+is the elitist top-down pedagogy that focuses on incubated/
 isolated abstractions and speculations without addressing the
- rich entanglement of disciplines and networks crucial to **the
- dynamic civic contexts** we operate in. The choice of sitting in an
- architecture school is **a meta critique of our tendency to view
- the ‘public’ as static scenarios**; the intervention of **inserting
- a living archive** in its agora, and **a campus corridor for the
- public to access**, is a provocation of how the dynamic politics
- of difference should inform and challenge the way we design for
- communities. The project introduces **two walls of knowledge** to
- replace the original walls which separate professional spaces apart
- from the public atrium space.
+rich entanglement of disciplines and networks crucial to **the
+dynamic civic contexts** we operate in. The choice of sitting in an
+architecture school is **a meta critique of our tendency to view
+the ‘public’ as static scenarios**; the intervention of **inserting
+a living archive** in its agora, and **a campus corridor for the
+public to access**, is a provocation of how the dynamic politics
+of difference should inform and challenge the way we design for
+communities. The project introduces **two walls of knowledge** to
+replace the original walls which separate professional spaces apart
+from the public atrium space.
+
+![](https://devserver-preview--tianhuiliportfolio.netlify.app/_static/app-assets/public/images/IMG_3111.jpg)
