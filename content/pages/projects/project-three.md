@@ -4,11 +4,7 @@ title: A DEMOCRATIC FORUM BETWEEN THEWALLS
 colors: colors-a
 date: '2022-04-07'
 client: Comprehensive Design Studio, Syracuse University
-description: >-
-  Spring 2022,Comprehensive Design Studio Instructor: Richard Rosa Partner:
-  Kaicheng Zhuang Location: Syracuse, NY Awards: ACSA Steel Design Student
-  Competition 2022 Category I, Honourable MentionKing + King Leadership by
-  Design Prize 2022, Finalist
+description: ''
 featuredImage:
   type: ImageBlock
   url: /images/studio2.png
