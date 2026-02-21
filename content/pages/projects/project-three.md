@@ -15,7 +15,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/WeChat截图_20230401205654.png
   altText: Project image
 bottomSections:
   - type: MediaGallerySection
