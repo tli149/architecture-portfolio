@@ -55,6 +55,7 @@ bottomSections:
           - pl-4
           - pr-4
         textAlign: center
+socialImage: /images/Li_Tianhui.jpg
 ---
 Spring 2022,
 Comprehensive Design Studio
