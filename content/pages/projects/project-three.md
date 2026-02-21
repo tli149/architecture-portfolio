@@ -80,3 +80,10 @@ replace the original walls which separate professional spaces apart
 from the public atrium space.
 
 ![](https://devserver-preview--tianhuiliportfolio.netlify.app/_static/app-assets/public/images/IMG_3111.jpg)
+
+The new walls primarily serve the function of archive storage and displacement, they create a grand vertical space for students and faculties to experience each time they enter any program in the architecture school. The two glass walls go down to the space underneath the building,
+forming the space of a grand auditorium with a campus corridor that sits above it. The corridor enables public access to the archive and makes them part of the architecture’s academic discussion.
+These two glass walls are each composed of a display wall and an archive storage wall. The display wall is composed of openable double-layered glass panels, where students and facilities can insert drawings and display them on both the atrium side and the inside of the wall space. The
+backside of the storage wall interacts with different programs behind it, it can operate as a studio pin-up space on the fourth floor, a screen for the Selignmen Auditorium on the first and second floor, and even an exhibition wall inside the marble room. The two walls work together to form a
+multifunctional space, where archives can be displayed, lectures can be held, studio crit can take place, and with foldable glass desks, working and studying in front of the displayed masterpieces becomes possible. The archives are no longer stored in storehouses with limited access, instead, they
+constantly interact with the students, the building, and the public.
